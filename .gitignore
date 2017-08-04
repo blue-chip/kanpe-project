@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Kanpe's documentation
+Column\ descriptions.pdf
+donor_analysis.html
+Kanpe\ project\ guidelines.pdf
+.idea/workspace.xml
+
+# Kanpe's data
+Kanpe\ donors\ -\ revised\ -\ dpfinancialexport\ (1).csv
+Kanpe\ extra\ numbers.txt
